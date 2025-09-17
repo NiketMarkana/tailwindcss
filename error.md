@@ -1,0 +1,1 @@
+#Tailwind CSS Setup Guide (Manual Setup for Windows)
