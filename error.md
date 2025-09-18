@@ -1,5 +1,8 @@
-# image
-![alt text](image.png)
+# tailwindcss series 
+```bash
+https://youtu.be/aUunolbb1xU?si=ZMq8v6ibG4fJ8jR2
+```
+watch at 8:18
 # change version-4 to version-3
 ## 1. Initialize Project
 
